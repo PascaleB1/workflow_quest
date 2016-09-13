@@ -1,0 +1,31 @@
+#carrousel
+{
+border: solid 5px;
+width: 712px; 
+height: 264px;
+margin: 0 auto;
+position: relative;
+}
+
+.slide
+{
+	position: absolute;
+	top: 0;
+	left:0;
+	width: 712px;
+	height: 264px;
+}
+
+.navigation
+{
+	position: absolute;
+	bottom: 0px;
+	text-align: center;
+}
+
+.navigation span 
+{
+	background: #FFF;
+	color: #000;
+	cursor: pointer;
+}
