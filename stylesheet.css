@@ -29,3 +29,9 @@ position: relative;
 	color: #000;
 	cursor: pointer;
 }
+
+.title
+{
+	color: rgb(40, 35, 28);
+	font-family: verdana;
+}
